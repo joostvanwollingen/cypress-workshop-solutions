@@ -1,1 +1,12 @@
-{}
+{
+  "defaultCommandTimeout": 1000,
+  "execTimeout": 6000,
+  "taskTimeout": 6000,
+  "pageLoadTimeout": 1000,
+  "videoUploadOnPasses": false,
+  "projectId": "ixrrsn",
+  "baseUrl": "http://localhost:8080/",
+  "env": {
+   "x" : "y"
+  }
+}
