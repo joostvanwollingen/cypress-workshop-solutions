@@ -8,12 +8,11 @@
   "baseUrl": "http://localhost:8080/",
   "fixturesFolder": "cypress/fixtures",
   "supportFile": "cypress/support/index.js",
-  "testFiles": "test/**/*.*",
   "videosFolder": "cypress/videos/",
-  "videoCompression" : "32",
-  "video": "false",
+  "videoCompression" : 32,
+  "video": false,
   "screenshotsFolder": "cypress/screenshots",
-  "trashAssetsBeforeRuns": "true",
+  "trashAssetsBeforeRuns": true,
   "env": {
    "x" : "y"
   }
