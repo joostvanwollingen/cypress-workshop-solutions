@@ -4,7 +4,7 @@
   "taskTimeout": 6000,
   "pageLoadTimeout": 1000,
   "videoUploadOnPasses": false,
-  "projectId": "ixrrsn",
+  "projectId": "ixrrsxn",
   "baseUrl": "http://localhost:8080/",
   "env": {
    "x" : "y"
